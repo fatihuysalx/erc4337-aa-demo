@@ -163,3 +163,14 @@ Bu yüzden testlerde hep `EntryPoint.handleOps()` çağrısı yapılmalı.
 [https://github.com/fatihuysalx/erc4337-aa-demo](https://github.com/fatihuysalx/erc4337-aa-demo)
 
 ## 10. Geliştirici: Fatih Uysal
+
+## 11. Demo Videosu
+
+Demo videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Google Drive Üzerinden İzle]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1EozXgcFvOBzTnNh_j_Lbs-ypax92h1ux/view?usp=sharing))
+
+Video içeriğinde:
+- Proje dosya yapısı
+- Meta işlem gönderimi ve Etherscan sonuçları
+- Yaşadığım sorunlar ve öğrendiklerim
