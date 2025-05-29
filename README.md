@@ -10,7 +10,6 @@ Bu projede ERC-4337 standardı kapsamında bir akıllı cüzdan (SimpleAccount),
 
 ### Geliştirme Ortamı
 
-* Sistem: Windows 10 / WSL2
 * Blockchain ağı: Sepolia Testnet (Alchemy endpoint)
 * Geliştirme araçları: Hardhat, Ethers.js v6, dotenv
 * Smart contract dili: Solidity ^0.8.24
